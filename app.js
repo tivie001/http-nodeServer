@@ -38,7 +38,3 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(5000);
-
-//DONE
-// Listen on port 5000
-// Have a default route that returns HTML with a message welcoming you to the page
