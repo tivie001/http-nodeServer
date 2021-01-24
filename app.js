@@ -1,12 +1,5 @@
 // For this assignment, you will build a simple HTTP server in NodeJS using Express.
-
-// Your server will do the following:
-
-
-// Have a '/api' route that returns a JSON object containing at least 3 key/value pairs of data
-// Make sure your Git skills are current by committing and pushing your sample NodeJS server code up to a Github repository.
-
-// Submit your Github URL for this assignment.
+// Tyler Ivie | DGM 4790
 
 const http = require("http");
 const hpData = {
